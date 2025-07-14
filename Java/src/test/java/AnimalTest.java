@@ -1,3 +1,5 @@
+import oop.Cat;
+import oop.Dog;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
